@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mikhailadamriaz&label=Profile%20views&color=0e75b6&style=flat" alt="mikhailadamriaz" /> </p>
 
-- 🔭 I’m currently undertaking **Bachelor Degree in Bioinformatics (Computer Science)**
+- 🔭 I’m currently undertaking **Bachelor Degree in Computer Science (Bioinformatics)**
 
 - 💻 I have experience using **VS Code** and **Dev-C++** compilers.
 
